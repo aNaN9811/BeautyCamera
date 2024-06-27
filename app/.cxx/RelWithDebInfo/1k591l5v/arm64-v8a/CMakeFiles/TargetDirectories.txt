@@ -1,0 +1,6 @@
+/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a/CMakeFiles/beautycamera.dir
+/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a/FaceAlignment/CMakeFiles/seeta_fa_lib.dir
+/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a/FaceAlignment/CMakeFiles/edit_cache.dir
+/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a/FaceAlignment/CMakeFiles/rebuild_cache.dir

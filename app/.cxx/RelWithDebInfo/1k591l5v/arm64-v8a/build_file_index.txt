@@ -1,0 +1,2 @@
+/Users/huangruonan/Project/BeautyCamera/app/src/main/cpp/CMakeLists.txt
+/Users/huangruonan/Project/BeautyCamera/app/src/main/cpp/FaceAlignment/CMakeLists.txt

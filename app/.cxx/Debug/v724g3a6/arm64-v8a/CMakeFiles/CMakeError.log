@@ -1,0 +1,183 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags: -c;--target=aarch64-none-linux-android33 
+
+The output was:
+1
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags:  
+
+The output was:
+1
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags: -c 
+
+The output was:
+1
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags: --c++ 
+
+The output was:
+1
+clang++: error: unsupported option '--c++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags: --ec++ 
+
+The output was:
+1
+clang++: error: unsupported option '--ec++'
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;-std=c+++11
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/v724g3a6/arm64-v8a/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/huangruonan/Library/Android/sdk/cmake/3.22.1/bin/ninja cmTC_93a23 && [1/2] Building CXX object CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o
+FAILED: CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o 
+/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat  -std=c+++11  -fPIE   -v -MD -MT CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o -c /Users/huangruonan/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp
+Android (10552028, +pgo, +bolt, +lto, -mlgo, based on r487747d) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362)
+Target: aarch64-none-linux-android33
+Thread model: posix
+InstalledDir: /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin
+ (in-process)
+ "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++" -cc1 -triple aarch64-none-linux-android33 -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu generic -target-feature +neon -target-feature +v8a -target-feature +fix-cortex-a53-835769 -target-abi aapcs -mllvm -treat-scalable-fixed-error-as-warning -debug-info-kind=constructor -dwarf-version=4 -debugger-tuning=gdb -v -ffunction-sections -fdata-sections -fcoverage-compilation-dir=/Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/v724g3a6/arm64-v8a/CMakeFiles/CMakeTmp -resource-dir /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/17 -dependency-file CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -D ANDROID -D _FORTIFY_SOURCE=2 -isysroot /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -internal-isystem /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1 -internal-isystem /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/17/include -internal-isystem /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/local/include -internal-externc-isystem /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/aarch64-linux-android -internal-externc-isystem /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/include -internal-externc-isystem /Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include -Wformat -std=c+++11 -fdeprecated-macro -fdebug-compilation-dir=/Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/v724g3a6/arm64-v8a/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 2 -fno-signed-char -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -target-feature +outline-atomics -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_93a23.dir/CMakeCXXCompilerABI.cpp.o -x c++ /Users/huangruonan/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/v724g3a6/arm64-v8a/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Users/huangruonan/Library/Android/sdk/cmake/3.22.1/bin/ninja cmTC_32963 && [1/2] Building CXX object CMakeFiles/cmTC_32963.dir/testCXXCompiler.cxx.o
+FAILED: CMakeFiles/cmTC_32963.dir/testCXXCompiler.cxx.o 
+/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c+++11  -fPIE -MD -MT CMakeFiles/cmTC_32963.dir/testCXXCompiler.cxx.o -MF CMakeFiles/cmTC_32963.dir/testCXXCompiler.cxx.o.d -o CMakeFiles/cmTC_32963.dir/testCXXCompiler.cxx.o -c /Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/v724g3a6/arm64-v8a/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+error: invalid value 'c+++11' in '-std=c+++11'
+note: use 'c++98' or 'c++03' for 'ISO C++ 1998 with amendments' standard
+note: use 'gnu++98' or 'gnu++03' for 'ISO C++ 1998 with amendments and GNU extensions' standard
+note: use 'c++11' for 'ISO C++ 2011 with amendments' standard
+note: use 'gnu++11' for 'ISO C++ 2011 with amendments and GNU extensions' standard
+note: use 'c++14' for 'ISO C++ 2014 with amendments' standard
+note: use 'gnu++14' for 'ISO C++ 2014 with amendments and GNU extensions' standard
+note: use 'c++17' for 'ISO C++ 2017 with amendments' standard
+note: use 'gnu++17' for 'ISO C++ 2017 with amendments and GNU extensions' standard
+note: use 'c++20' for 'ISO C++ 2020 DIS' standard
+note: use 'gnu++20' for 'ISO C++ 2020 DIS with GNU extensions' standard
+note: use 'c++2b' for 'Working draft for ISO C++ 2023 DIS' standard
+note: use 'gnu++2b' for 'Working draft for ISO C++ 2023 DIS with GNU extensions' standard
+ninja: build stopped: subcommand failed.
+
+
+

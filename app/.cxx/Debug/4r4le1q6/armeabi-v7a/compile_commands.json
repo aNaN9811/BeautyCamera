@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/4r4le1q6/armeabi-v7a",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbeautycamera_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/beautycamera.dir/native-lib.cpp.o -c /Users/huangruonan/Project/BeautyCamera/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/huangruonan/Project/BeautyCamera/app/src/main/cpp/native-lib.cpp"
+}
+]

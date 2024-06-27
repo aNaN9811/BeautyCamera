@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "FaceAlignment",
+					"jsonFile" : "directory-FaceAlignment-RelWithDebInfo-9049cb880d62c429c0b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "FaceAlignment",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "beautycamera",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "beautycamera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-beautycamera-RelWithDebInfo-c93aea9c7305edd2fe90.json",
+					"name" : "beautycamera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "seeta_fa_lib::@0f9b865a7549c0e00f2e",
+					"jsonFile" : "target-seeta_fa_lib-RelWithDebInfo-7059d505f6279beb39f1.json",
+					"name" : "seeta_fa_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/huangruonan/Project/BeautyCamera/app/.cxx/RelWithDebInfo/1k591l5v/arm64-v8a",
+		"source" : "/Users/huangruonan/Project/BeautyCamera/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

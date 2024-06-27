@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/huangruonan/Project/BeautyCamera/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/huangruonan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/4r4le1q6/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/huangruonan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/huangruonan/Project/BeautyCamera/app/.cxx/Debug/4r4le1q6/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "beautycamera::@6890427a1f51a3e7e1df": {
+      "artifactName": "beautycamera",
+      "abi": "x86_64",
+      "output": "/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/4r4le1q6/obj/x86_64/libbeautycamera.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+0	250	1718722582040921035	CMakeFiles/beautycamera.dir/native-lib.cpp.o	27f2d64ffb668419
+251	290	1718722582081377861	/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/4r4le1q6/obj/x86_64/libbeautycamera.so	da48130495045136
+0	4	0	clean	d1a15205cc77ab3a
+2	230	1719213963076734581	CMakeFiles/beautycamera.dir/native-lib.cpp.o	27f2d64ffb668419
+230	277	1719213963124921086	/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/4r4le1q6/obj/x86_64/libbeautycamera.so	da48130495045136
+0	4	0	clean	d1a15205cc77ab3a
+2	223	1719213996601826823	CMakeFiles/beautycamera.dir/native-lib.cpp.o	27f2d64ffb668419
+223	265	1719213996644258387	/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/4r4le1q6/obj/x86_64/libbeautycamera.so	da48130495045136

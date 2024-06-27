@@ -1,0 +1,14 @@
+# ninja log v5
+2	1292	1719397794334568408	CMakeFiles/beautycamera.dir/FaceTrack.cpp.o	8cae7d40cac577d
+0	10	0	clean	d1a15205cc77ab3a
+3	781	1719397793827193880	FaceAlignment/CMakeFiles/seeta_fa_lib.dir/src/sift.cpp.o	9703c6e908a17c0e
+2	1110	1719411700342525772	CMakeFiles/beautycamera.dir/native-lib.cpp.o	50d0c3b5fd77e69e
+2	784	1719397793828921757	FaceAlignment/CMakeFiles/seeta_fa_lib.dir/src/cfan.cpp.o	8073fe27a78d273f
+2	759	1719397793800539276	FaceAlignment/CMakeFiles/seeta_fa_lib.dir/src/face_alignment.cpp.o	e3d3a5195197db77
+1110	1245	1719411700478652523	/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/3m4k4b1v/obj/arm64-v8a/libbeautycamera.so	82da6717cb675b4a
+784	869	1719397793913162000	FaceAlignment/libseeta_fa_lib.a	d72cf81ea68d46a8
+0	58	1719282437924492202	build.ninja	32172edf31c5be34
+2	1764	1719412986018773425	CMakeFiles/beautycamera.dir/native-lib.cpp.o	50d0c3b5fd77e69e
+1764	1925	1719412986180295555	/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/3m4k4b1v/obj/arm64-v8a/libbeautycamera.so	82da6717cb675b4a
+2	1775	1719413036167415119	CMakeFiles/beautycamera.dir/native-lib.cpp.o	50d0c3b5fd77e69e
+1775	1904	1719413036306215356	/Users/huangruonan/Project/BeautyCamera/app/build/intermediates/cxx/Debug/3m4k4b1v/obj/arm64-v8a/libbeautycamera.so	82da6717cb675b4a
