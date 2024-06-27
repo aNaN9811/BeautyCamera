@@ -10,4 +10,4 @@ OpenGL 自定义 GLSurfaceView 的 Renderer 实现 Filter 程序与 GL 线程绑
 
 [SeetaFace](https://github.com/seetaface/SeetaFaceEngine) 进行人脸特征点定位并最终完成双眼放大的效果。
 
-同时使用 MediaCodec 的 InputSurface 并与自定义 EGL 绑定实现最终效果的录制存储。
+同时使用 MediaCodec 的 InputSurface 结合 MediaMuxer 并与自定义 EGL 绑定实现最终效果的录制存储。
